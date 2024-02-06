@@ -164,6 +164,7 @@ strong {
   margin: 20px 30px;
   transition: transform 0.6s ease-in-out;
   cursor: pointer;
+  /* transform: rotate(360deg); */
 }
 
 .connect-icon:hover {
